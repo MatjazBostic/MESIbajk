@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MESIbajk</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_lend">LendActivity</string>
+    <string name="select_start_and_end_date_error">Prosimo da izberete začetni in končni datum!</string>
+    <string name="enter_name_error">Polje za ime in priimek ne sme biti prazno!</string>
+
+
+    <string-array name="sectorItems">
+        <item>Razvoj</item>
+        <item>Prodaja</item>
+        <item>Proizvodnja</item>
+    </string-array>
+
+    <string-array name="intentItems">
+        <item>Službeni</item>
+        <item>Privatni</item>
+    </string-array>
+    <string name="title_activity_statistics">StatisticsActivity</string>
+    <string name="no_data">Ni podatkov.</string>
+    <string name="end_date_before_start_date_err">Začetni datum ne sme biti večji od končnega!</string>
+    <string name="reservation_before_current_time_err">Rezervacija koles pred trenutnim datumom ni dovoljena.</string>
+    <string name="no_bikes_available_for_this_term">Žal za ta termin ni navoljo nobenih koles.</string>
+    <string name="you_have_reserved_the_bike">Rezervirali ste kolo:</string>
+    <string name="next_reservation">Prihodnja rezervacija:</string>
+    <string name="last_reservation">Zadnja rezervacija:</string>
+    <string name="number_of_kilometers_driven">Prevožena razdalja:</string>
+    <string name="intent">Namen:</string>
+    <string name="sector">Sektor:</string>
+    <string name="number_of_reservations">Število rezervacij:</string>
+    <string name="from">Od</string>
+    <string name="to">do</string>
+    <string name="name_and_surname">Ime in priimek</string>
+
+</resources>
